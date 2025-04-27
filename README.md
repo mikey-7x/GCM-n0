@@ -92,13 +92,13 @@ Run the GCM-n0.py script after Bluetooth connection.
 
 📁 Project Structure
 
-GCM-n0/
+GCM-n0
 
 ├── GCM-n0.ino (Accelerometer + Touch Sensors)
 
 ├── GCM-n0.py (Mouse Control)
 
-├── Images/ (Images)
+├── Images (Images)
 
 └── README.md
 
