@@ -93,12 +93,10 @@ Run the GCM-n0.py script after Bluetooth connection.
 📁 Project Structure
 
 GCM-n0/
-├── GCM-n0.ino       # Arduino Code (Accelerometer + Touch Sensors)
-
-├── GCM-n0.py        # Python Script (Mouse Control)
-
-├── Images/          # Project Images
-└── README.md        # Documentation
+├── GCM-n0.ino (Accelerometer + Touch Sensors)
+├── GCM-n0.py (Mouse Control)
+├── Images/ (Images)
+└── README.md
 
 ---
 
