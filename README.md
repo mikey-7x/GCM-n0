@@ -84,6 +84,9 @@ Run the GCM-n0.py script after Bluetooth connection.
 
 📸 Project Images
 
+**Circuit Diagram:**
+
+![Circuit Diagram](gcm-n0.jpg)
 
 ---
 
