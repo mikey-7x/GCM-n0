@@ -2,10 +2,8 @@
 
 [![Arduino](https://img.shields.io/badge/Arduino-IDE-blue?logo=arduino)](https://www.arduino.cc/)
 [![Python](https://img.shields.io/badge/Python-3.x-yellow?logo=python)](https://www.python.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green)]
-.(https://github.com/mikey-7x/GCM-n0/blob/main/LICENSE).
-[![Built with Love](https://img.shields.io/badge/Built%20with-%E2%9D%A4-red)]
-(https://github.com/mikey-7x)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green)](https://github.com/mikey-7x/GCM-n0/blob/main/LICENSE)
+[![Built with Love](https://img.shields.io/badge/Built%20with-%E2%9D%A4-red)](https://github.com/mikey-7x)
 
 > Control your computer mouse with just your **hand gestures** — no wires, no limits!
 
