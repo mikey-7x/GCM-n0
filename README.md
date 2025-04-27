@@ -8,7 +8,10 @@
 > Control your computer mouse with just your **hand gestures** — no wires, no limits!
 
 ---
+# **👁️‍🗨️Practical outputs**  
+[![GCA-n0](https://img.youtube.com/vi/nHxFMHYk4dc/maxresdefault.jpg)](https://youtu.be/nHxFMHYk4dc)
 
+---
 ## 📦 Components Used
 
 - 🔹 **ADXL345** (Digital Accelerometer)
