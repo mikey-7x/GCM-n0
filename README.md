@@ -1,6 +1,9 @@
 # ✨ GCM-n0 (Gesture Control Mouse - Wireless)
 
-![Arduino](https://img.shields.io/badge/Arduino-IDE-blue?logo=arduino) ![Python](https://img.shields.io/badge/Python-3.x-yellow?logo=python) ![License: MIT](https://img.shields.io/badge/License-MIT-green) ![Built with Love](https://img.shields.io/badge/Built%20with-%E2%9D%A4-red)
+[![Arduino](https://img.shields.io/badge/Arduino-IDE-blue?logo=arduino)](https://www.arduino.cc/)
+[![Python](https://img.shields.io/badge/Python-3.x-yellow?logo=python)](https://www.python.org/)
+![License: MIT](https://img.shields.io/badge/License-MIT-green)
+![Built with Love](https://img.shields.io/badge/Built%20with-%E2%9D%A4-red)
 
 > Control your computer mouse with just your **hand gestures** — no wires, no limits!
 
