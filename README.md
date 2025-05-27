@@ -17,7 +17,7 @@
 - 🔹 **ADXL345** (Digital Accelerometer)
 - 🔹 **HC-05** Bluetooth Module
 - 🔹 **Homemade Touch Sensor**
-- 🔹 **Arduino Uno** (or compatible board)
+- 🔹 **Arduino Nano** (or compatible board)
 
 ---
 
