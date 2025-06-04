@@ -37,6 +37,9 @@ The project allows controlling the cursor and clicks using simple finger gesture
     - **Second finger touching thumb** → **Right Click**
 
 > **Note**: The **common wire** of the touch sensor must be connected to your **body**.
+>in **gcm-n0.py** file, make sure add two space at last line of code 
+
+
 
 ---
 
