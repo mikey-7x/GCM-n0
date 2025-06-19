@@ -113,6 +113,42 @@ GCM-n0
 
 ---
 
+# 🪽 bring GCM-n0 readings in termux 
+
+1) download serial bluetooth terminal app from:
+   
+https://play.google.com/store/apps/details?id=de.kai_morich.serial_bluetooth_terminal
+
+2)turn on android's bluetooth and scan, connect 'hc-05' device (default password is 1234),
+
+open serial bluetooth terminal and click three dash at left corner then go:
+
+setting<misc.<save+log folder
+
+choose your accessible folder where logs are saved
+
+3)again go three dash at left corner and choose 'device' option then connect 'hc-05' device 
+
+now you can see GCM-n0 readings in this app
+
+4)click three dot at right corner click the 'data' option and click to 'log'(mark/enable the log)
+
+now logs are saved in your selected path in text form
+
+5)open termux and run:
+
+```
+pkg install python -y
+```
+```
+wget https://raw.githubusercontent.com/mikey-7x/GCM-n0/refs/heads/main/x3.py
+chmod +x x3.py
+```
+to see readings run:
+```
+python x3.py
+```
+
 # License
 
 This project is open-source and available under the [MIT License](LICENSE).
