@@ -158,4 +158,7 @@ This project is open-source and available under the [MIT License](LICENSE).
 ## **📜 Credits**  
 Developed with  ❤️ by **[mikey-7x](https://github.com/mikey-7x)** 🚀🔥  
 
+
+[other repository](https://github.com/mikey-7x?tab=repositories)
+
 Special thanks to the open-source community for providing awesome libraries!
